@@ -27,18 +27,18 @@ Two challenges where provided.
 
 * The operations performed on this data are:
 
-     1. Finding the total number of votes cast.
-         appended the Ballot_ID column to a seperate list and find the length of the list to find the total votes.
+ 1. Finding the total number of votes cast.
+     appended the Ballot_ID column to a seperate list and find the length of the list to find the total votes.
      
-     2.Find the complete list of candidates who received votes and their total votes.
-        Performed a IF conditional loop for getting the numer of votes for each candidate.
+ 2.Find the complete list of candidates who received votes and their total votes.
+     Performed a IF conditional loop for getting the numer of votes for each candidate.
 
-     3.Find the percentage of votes each candidate won.
-        Divided single candidate vote with total votes and then multiplied the result with 100.
+ 3.Find the percentage of votes each candidate won.
+    Divided single candidate vote with total votes and then multiplied the result with 100.
 
-     4. Find the winner of the election based on popular vote.
-         A dictionary is created with candidate's name as key and their votes as keys.found the the maximum value of the dictionary then printed the corresponding 
-         key as the winner. 
+ 4. Find the winner of the election based on popular vote.
+     A dictionary is created with candidate's name as key and their votes as keys.found the the maximum value of the dictionary then printed the corresponding 
+     key as the winner. 
 
 
 
