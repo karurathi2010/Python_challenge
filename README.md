@@ -33,7 +33,7 @@ Two challenges where provided.
      2.Find the complete list of candidates who received votes and their total votes.
         Performed a IF conditional loop for getting the numer of votes for each candidate.
 
-  3.Find the percentage of votes each candidate won.
+     3.Find the percentage of votes each candidate won.
         Divided single candidate vote with total votes and then multiplied the result with 100.
 
      4. Find the winner of the election based on popular vote.
